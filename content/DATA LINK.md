@@ -1,3 +1,4 @@
+[[SRI]]
 Livello 2, collegamento dati.
 ***==FUNZIONI:==***
 Framing = incapsulamento dei dati aggiungendo un’intestazione e una coda.

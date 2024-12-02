@@ -1,3 +1,4 @@
+[[PROCESSI]]
 Un processo per essere eseguito deve essere collocato in memoria centrale.
 
 I sistemi operativi di oggi lavorano in multi programmazione cioè che ci sono più programmi in esecuzione contemporaneamente. E c’è una memoria condivisa da più processi.
