@@ -1,6 +1,6 @@
 ---
 title: Home
 ---
-[[TPI]]
+TPI: [[TPI]]
 
-[[SRI]]
+Sistemi : [[SRI]]
