@@ -1,3 +1,5 @@
+[[TPI]]
+
 [[PROCESSI]]
 Un processo per essere eseguito deve essere collocato in memoria centrale.
 
