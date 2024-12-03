@@ -36,4 +36,3 @@ Processo supervisore è un processo generato da un programma del Sistema Operati
 
 [[STRUTTURA PER GESTIRE I PROCESSI]]
 
-[[PROCESSI E MEMORIA]]

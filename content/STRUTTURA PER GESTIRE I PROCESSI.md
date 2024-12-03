@@ -1,3 +1,5 @@
+Per tornare alla pagina iniziale: [[TPI]]
+
 [[PROCESSI]]
 Quando un programma va in esecuzione viene creato il processo, ad un processo sono associati: codice eseguibile, spazio di memoria con i dati e lo stack, PCB(process control block ) o descrittore di processo 
 
