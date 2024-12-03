@@ -1,7 +1,7 @@
 [[TPI]]
 
 **==Gestione del processore==**
-Trougput = numero di programmi eseguiti per unità di tempo.
+Troughput = numero di programmi eseguiti per unità di tempo.
 
 **PROGRAMMA** : insieme di istruzioni ,memorizzate su memoria di massa , quindi è definito entità statica.
 
