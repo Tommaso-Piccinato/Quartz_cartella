@@ -1,4 +1,5 @@
 [[TPI]]
+
 **==Gestione del processore==**
 Trougput = numero di programmi eseguiti per unità di tempo.
 
