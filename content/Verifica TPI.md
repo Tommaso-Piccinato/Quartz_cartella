@@ -22,11 +22,11 @@ Ogni processo è diviso in codice e dati del programma, l’insieme dei dati di 
 
 I processi devono essere:
 
-- Indipendenti cioè che può evolversi senza necessità di scambiare dati con altri processi.
+- **Indipendenti** cioè che può evolversi senza necessità di scambiare dati con altri processi.
     
-- Cooperanti cioè due o più processi devono scambiarsi informazioni per evolvere.
+- **Cooperanti** cioè due o più processi devono scambiarsi informazioni per evolvere.
     
-- Competitori cioè due processi possono essere ostacolati per usare la stessa risorsa.
+- **Competitori** cioè due processi possono essere ostacolati per usare la stessa risorsa.
     
 
 La situazione in cui si trova un processo rispetto alla CPU viene definita stato del processo.
