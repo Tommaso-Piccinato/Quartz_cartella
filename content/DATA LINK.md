@@ -1,6 +1,8 @@
 [[SRI]]
 Livello 2, collegamento dati.
+
 ***==FUNZIONI:==***
+
 Framing = incapsulamento dei dati aggiungendo un’intestazione e una coda.
 
 (Switch ha solo i primi due livelli ISO/OSI. Router ha i primi tre livelli ISO/OSI)
