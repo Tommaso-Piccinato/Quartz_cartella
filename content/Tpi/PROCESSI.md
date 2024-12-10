@@ -1,4 +1,4 @@
-[[TPI]]
+Pagina iniziale: [[TPI]]
 
 Più programmi possono essere eseguiti sul processore anche contemporaneamente.
 Sistemi operativi multi-utente (più processi e più utenti).

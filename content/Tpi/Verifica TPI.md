@@ -1,4 +1,4 @@
-[[TPI]]
+Pagina iniziale: [[TPI]]
 
 **==Gestione del processore==**
 Troughput = numero di programmi eseguiti per unità di tempo.
