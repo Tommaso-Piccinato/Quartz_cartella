@@ -2,6 +2,6 @@
 title: Appunti Piccinato
 ---
 
-TPI: [[TPI]]
+TPI: [[TPI]] sbor
 
 Sistemi : [[SRI]]
