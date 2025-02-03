@@ -9,7 +9,6 @@ COMANDI:
 - **`cp`**: Copia un file o una directory.
 - **`mv`**: Sposta o rinomina un file o una directory.
 - **`rm`**: Rimuove un file.
-- **`cat`**: Visualizza il contenuto di un file.
 - **`touch`**: Crea un nuovo file vuoto o aggiorna la data di modifica di un file esistente.
 - cat: Usato per visualizzare il contenuto di un file di testo.
 - echo: Visualizza una linea di testo o variabili sullo standard output.
@@ -27,9 +26,8 @@ COMANDI:
     
 - Standard Error (STDERR): Flusso di output che raccoglie i messaggi di errore generati dai comandi. Di default, viene visualizzato nel terminale ed è noto anche come stream o canale #2.
     
-
 ## Redirezione di File
 
 - Per aggiungere contenuto a un file senza sovrascriverlo, si utilizzano due simboli di maggiore >>.
     
-- > (maggiore singolo): Usato per reindirizzare l'output di un comando in un file, sovrascrivendo il contenuto se il file esiste già.
+- (maggiore singolo) >: Usato per reindirizzare l'output di un comando in un file, sovrascrivendo il contenuto se il file esiste già.
