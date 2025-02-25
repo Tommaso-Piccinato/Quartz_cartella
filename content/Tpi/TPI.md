@@ -7,3 +7,4 @@ HOME: [[index]]
 Verifica sulla gestione di un processo e della memoria : [[Verifica TPI]]
 
 Comandi linux: [[Linux]]
+Cisco: [[Cisco]]
